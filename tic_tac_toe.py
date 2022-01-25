@@ -1,3 +1,5 @@
+#Autor: Nestor Rivera
+
 def main():
     player = player_turn('')
     table = create_table()
